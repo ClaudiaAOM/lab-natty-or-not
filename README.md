@@ -12,3 +12,6 @@ Primeiramente usei o chat GPT para me ajudar a criar o roteiro. Depois entrei no
 Achei o resultado interessante, mas achei o avatar muito falso. Se fosse utilizar em outro caso, teria que escolher outro avatar para deixar mais realista.
 ## 💭 Reflexão (Opcional)
 Foi interessante, mais desafiador que imaginei inicialmente, porém muito fácil de aprender e me adaptar.
+
+Segue o link com o resultado.
+https://studio.d-id.com/share?id=88416e28b164329d835fa6f21a6e6750&utm_source=copy
